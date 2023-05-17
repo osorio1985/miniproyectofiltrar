@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/miniproyectofiltrar/static/css/main.f9a26d39.css",
+    "main.js": "/miniproyectofiltrar/static/js/main.f15c305f.js",
+    "static/media/logo.svg": "/miniproyectofiltrar/static/media/logo.beef9462a899fe60cb52edfd446e26ef.svg",
+    "index.html": "/miniproyectofiltrar/index.html",
+    "main.f9a26d39.css.map": "/miniproyectofiltrar/static/css/main.f9a26d39.css.map",
+    "main.f15c305f.js.map": "/miniproyectofiltrar/static/js/main.f15c305f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a26d39.css",
+    "static/js/main.f15c305f.js"
+  ]
+}
